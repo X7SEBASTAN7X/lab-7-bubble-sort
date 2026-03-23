@@ -1,10 +1,17 @@
 def bubble_sort(array):
     n = len(array)
-    for _ in range(n):
+    print('Starting Bubble Sort')
+    for ps in range(n):
+        swapped = False
         for i in range(n-1):
+            for num in array:
+                [print('#',end='') for _ in range(1,num+1)]
+                print()
             if array[i]>array[i+1]:
-                array[i],array[i+1] = array[i+1],array[i]        
-
+                array[i],array[i+1] = array[i+1],array[i]  
+                swapped = True
+        if not swapped:
+            break
     return array
 
 
