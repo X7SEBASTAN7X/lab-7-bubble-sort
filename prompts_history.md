@@ -8,3 +8,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 11:40
 - **Prompt**: Explain to me how Bubble Sort works?
 
+### 23-03-2026 11:55
+- **Prompt**: what are stubs
+

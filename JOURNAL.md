@@ -20,3 +20,8 @@
 - **Hook Version**: 1.02
 - **Date**: 23-03-2026 11:40
 - **Prompt**: Explain to me how Bubble Sort works?
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 23-03-2026 11:55
+- **Prompt**: what are stubs
