@@ -11,3 +11,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 11:55
 - **Prompt**: what are stubs
 
+### 23-03-2026 11:59
+- **Prompt**: Forget about stubs, i would like to visualize the sorting as it is happening. First. I would like to explore a terminal based approach. What do you suggest
+

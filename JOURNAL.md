@@ -25,3 +25,8 @@
 - **Hook Version**: 1.02
 - **Date**: 23-03-2026 11:55
 - **Prompt**: what are stubs
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 23-03-2026 11:59
+- **Prompt**: Forget about stubs, i would like to visualize the sorting as it is happening. First. I would like to explore a terminal based approach. What do you suggest
