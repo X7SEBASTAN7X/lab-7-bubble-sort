@@ -35,3 +35,21 @@
 - **Hook Version**: 1.02
 - **Date**: 27-03-2026 22:19
 - **Prompt**: Help me make my bubble sort with stubs so i can have a visual representation of how it is done. Also make sure to explain the code with comments so i can undestand everything and work on future projects that use this technology.  more specifically Can you help me learn by writing a skeleton bubble sort app with stubs functions, with comments and TODOs that will indicate what i need to do
+
+### **New Interaction**
+- **Agent Version**: 2.2
+- **Date**: 27-03-2026 22:21
+- **User**: sebastian.seingier@epita.fr
+- **Prompt**: Help me make my bubble sort with stubs so i can have a visual representation of how it is done. Also make sure to explain the code with comments so i can undestand everything and work on future projects that use this technology.
+
+more specifically Can you help me learn by writing a skeleton bubble sort app with stubs functions, with comments and TODOs that will indicate what i need to do
+- **CoPilot Mode**: Edit
+- **CoPilot Model**: GPT-5.3-Codex
+- **Socratic Mode**: ON
+- **Changes Made**: Replaced main.py with a modular bubble sort learning skeleton using helper stubs, visualization frames, comments, and explicit TODOs for student practice.
+- **Context and Reasons for Changes**: User requested a beginner-friendly terminal bubble sort scaffold that teaches structure and provides guided next steps rather than a single monolithic implementation.
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 27-03-2026 22:35
+- **Prompt**: Can you now change it to an implementation using pygame, making a 2d animation

@@ -17,3 +17,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 27-03-2026 22:19
 - **Prompt**: Help me make my bubble sort with stubs so i can have a visual representation of how it is done. Also make sure to explain the code with comments so i can undestand everything and work on future projects that use this technology.  more specifically Can you help me learn by writing a skeleton bubble sort app with stubs functions, with comments and TODOs that will indicate what i need to do
 
+### 27-03-2026 22:35
+- **Prompt**: Can you now change it to an implementation using pygame, making a 2d animation
+
