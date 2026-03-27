@@ -20,3 +20,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 27-03-2026 22:35
 - **Prompt**: Can you now change it to an implementation using pygame, making a 2d animation
 
+### 27-03-2026 22:44
+- **Prompt**: just make vertical bars, no controls at all, and all bars green
+
