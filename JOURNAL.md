@@ -101,3 +101,14 @@ more specifically Can you help me learn by writing a skeleton bubble sort app wi
 - **Hook Version**: 1.02
 - **Date**: 27-03-2026 22:57
 - **Prompt**: the swapped element, in green, others in orange. every number tiny, show value
+
+### **New Interaction**
+- **Agent Version**: 2.2
+- **Date**: 27-03-2026 23:34
+- **User**: sebastian.seingier@epita.fr
+- **Prompt**: the swapped element, in green, others in orange. every number tiny, show value
+- **CoPilot Mode**: Edit
+- **CoPilot Model**: GPT-5.3-Codex
+- **Socratic Mode**: ON
+- **Changes Made**: Updated pygame renderer so swapped bars are green, all non-swapped bars are orange, and each bar now shows a tiny numeric value label at the bottom.
+- **Context and Reasons for Changes**: User specified exact visual mapping for swapped vs non-swapped elements and requested compact value labels for easier identification.
