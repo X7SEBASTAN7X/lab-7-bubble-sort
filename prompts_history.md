@@ -26,3 +26,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 27-03-2026 22:53
 - **Prompt**: can you make it change color for the current element changing, and maybe add the numbers on the bottom for easy identification
 
+### 27-03-2026 22:57
+- **Prompt**: the swapped element, in green, others in orange. every number tiny, show value
+
