@@ -23,3 +23,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 27-03-2026 22:44
 - **Prompt**: just make vertical bars, no controls at all, and all bars green
 
+### 27-03-2026 22:53
+- **Prompt**: can you make it change color for the current element changing, and maybe add the numbers on the bottom for easy identification
+

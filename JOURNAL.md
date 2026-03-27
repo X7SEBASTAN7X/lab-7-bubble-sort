@@ -69,3 +69,19 @@ more specifically Can you help me learn by writing a skeleton bubble sort app wi
 - **Hook Version**: 1.02
 - **Date**: 27-03-2026 22:44
 - **Prompt**: just make vertical bars, no controls at all, and all bars green
+
+### **New Interaction**
+- **Agent Version**: 2.2
+- **Date**: 27-03-2026 22:46
+- **User**: sebastian.seingier@epita.fr
+- **Prompt**: just make vertical bars, no controls at all, and all bars green
+- **CoPilot Mode**: Edit
+- **CoPilot Model**: GPT-5.3-Codex
+- **Socratic Mode**: ON
+- **Changes Made**: Replaced terminal bubble sort demo with a pygame 2D animation that auto-runs sorting using vertical bars only, with a single green color for all bars and no keyboard controls.
+- **Context and Reasons for Changes**: User explicitly constrained the visual style and interaction model; implementation now follows those exact constraints.
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 27-03-2026 22:53
+- **Prompt**: can you make it change color for the current element changing, and maybe add the numbers on the bottom for easy identification
